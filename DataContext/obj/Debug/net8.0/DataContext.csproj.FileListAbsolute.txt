@@ -1,0 +1,68 @@
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\bin\Debug\net8.0\DataContext.deps.json
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\bin\Debug\net8.0\DataContext.runtimeconfig.json
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\bin\Debug\net8.0\DataContext.dll
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\bin\Debug\net8.0\DataContext.pdb
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\bin\Debug\net8.0\Repository.dll
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\bin\Debug\net8.0\Repository.pdb
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\DataCont.586C3566.Up2Date
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\DataContext.dll
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\refint\DataContext.dll
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\DataContext.pdb
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+C:\Users\User\Desktop\c#++\c#++פרויקט\DataContext\obj\Debug\net8.0\ref\DataContext.dll
+C:\Users\User\Desktop\WebApi\DataContext\bin\Debug\net8.0\DataContext.deps.json
+C:\Users\User\Desktop\WebApi\DataContext\bin\Debug\net8.0\DataContext.runtimeconfig.json
+C:\Users\User\Desktop\WebApi\DataContext\bin\Debug\net8.0\DataContext.dll
+C:\Users\User\Desktop\WebApi\DataContext\bin\Debug\net8.0\DataContext.pdb
+C:\Users\User\Desktop\WebApi\DataContext\bin\Debug\net8.0\Repository.dll
+C:\Users\User\Desktop\WebApi\DataContext\bin\Debug\net8.0\Repository.pdb
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\DataCont.586C3566.Up2Date
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\DataContext.dll
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\refint\DataContext.dll
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\DataContext.pdb
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+C:\Users\User\Desktop\WebApi\DataContext\obj\Debug\net8.0\ref\DataContext.dll
+H:\שנה ב\c#++\WebApi\DataContext\bin\Debug\net8.0\DataContext.deps.json
+H:\שנה ב\c#++\WebApi\DataContext\bin\Debug\net8.0\DataContext.runtimeconfig.json
+H:\שנה ב\c#++\WebApi\DataContext\bin\Debug\net8.0\DataContext.dll
+H:\שנה ב\c#++\WebApi\DataContext\bin\Debug\net8.0\DataContext.pdb
+H:\שנה ב\c#++\WebApi\DataContext\bin\Debug\net8.0\Repository.dll
+H:\שנה ב\c#++\WebApi\DataContext\bin\Debug\net8.0\Repository.pdb
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\DataCont.586C3566.Up2Date
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.dll
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\refint\DataContext.dll
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.pdb
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+H:\שנה ב\c#++\WebApi\DataContext\obj\Debug\net8.0\ref\DataContext.dll
+C:\Users\User\Desktop\c#++\WebApi\DataContext\bin\Debug\net8.0\DataContext.deps.json
+C:\Users\User\Desktop\c#++\WebApi\DataContext\bin\Debug\net8.0\DataContext.runtimeconfig.json
+C:\Users\User\Desktop\c#++\WebApi\DataContext\bin\Debug\net8.0\DataContext.dll
+C:\Users\User\Desktop\c#++\WebApi\DataContext\bin\Debug\net8.0\DataContext.pdb
+C:\Users\User\Desktop\c#++\WebApi\DataContext\bin\Debug\net8.0\Repository.dll
+C:\Users\User\Desktop\c#++\WebApi\DataContext\bin\Debug\net8.0\Repository.pdb
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\DataCont.586C3566.Up2Date
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.dll
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\refint\DataContext.dll
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.pdb
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+C:\Users\User\Desktop\c#++\WebApi\DataContext\obj\Debug\net8.0\ref\DataContext.dll

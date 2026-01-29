@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\repositories\\nurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\nurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\service\\services\\nurseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\services\\nurseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\lesson6\\controllers\\babycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|solutionrelative:lesson6\\controllers\\babycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FFA97-5FC9-4D53-BDD2-0526320D23DC}|DataContext\\DataContext.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\datacontext\\babycliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543FFA97-5FC9-4D53-BDD2-0526320D23DC}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\babycliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\service\\services\\babyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\services\\babyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\repositories\\extensionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\extensionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E8E9BA-76AF-486E-9D4D-0B8CB36998F2}|Common\\Common.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\common\\dto\\nursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E8E9BA-76AF-486E-9D4D-0B8CB36998F2}|Common\\Common.csproj|solutionrelative:common\\dto\\nursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\lesson6\\controllers\\nursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|solutionrelative:lesson6\\controllers\\nursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\service\\interfaces\\isexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\interfaces\\isexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E8E9BA-76AF-486E-9D4D-0B8CB36998F2}|Common\\Common.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\common\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E8E9BA-76AF-486E-9D4D-0B8CB36998F2}|Common\\Common.csproj|solutionrelative:common\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\entities\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\846eca86337cfb5a50250c04b5687c9419c9e7a47184790080f1a769b742887d\\BabyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\service\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FFA97-5FC9-4D53-BDD2-0526320D23DC}|DataContext\\DataContext.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\datacontext\\migrations\\20251121083659_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543FFA97-5FC9-4D53-BDD2-0526320D23DC}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\migrations\\20251121083659_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E8E9BA-76AF-486E-9D4D-0B8CB36998F2}|Common\\Common.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\common\\dto\\babydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E8E9BA-76AF-486E-9D4D-0B8CB36998F2}|Common\\Common.csproj|solutionrelative:common\\dto\\babydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\lesson6\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|solutionrelative:lesson6\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E8E9BA-76AF-486E-9D4D-0B8CB36998F2}|Common\\Common.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\common\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E8E9BA-76AF-486E-9D4D-0B8CB36998F2}|Common\\Common.csproj|solutionrelative:common\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\entities\\baby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\baby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FFA97-5FC9-4D53-BDD2-0526320D23DC}|DataContext\\DataContext.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\datacontext\\datacontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{543FFA97-5FC9-4D53-BDD2-0526320D23DC}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\datacontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\lesson6\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|solutionrelative:lesson6\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\repositories\\babyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\babyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2696EF39-078A-4C6F-ADCA-0C8A7916280F}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\service\\services\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\services\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\service\\services\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B79BC5-153E-2FD9-CAE3-8149E0D9044F}|Service\\Service.csproj|solutionrelative:service\\services\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\lesson6\\migrations\\babycliniccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|solutionrelative:lesson6\\migrations\\babycliniccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\lesson6\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|solutionrelative:lesson6\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\lesson6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C34CD4-085D-B70C-BD3E-4B7082315FF8}|lesson6\\WebApi.csproj|solutionrelative:lesson6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E8E9BA-76AF-486E-9D4D-0B8CB36998F2}|Common\\Common.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\common\\common.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B7E8E9BA-76AF-486E-9D4D-0B8CB36998F2}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FFA97-5FC9-4D53-BDD2-0526320D23DC}|DataContext\\DataContext.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\datacontext\\datacontext.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{543FFA97-5FC9-4D53-BDD2-0526320D23DC}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\datacontext.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FFA97-5FC9-4D53-BDD2-0526320D23DC}|DataContext\\DataContext.csproj|c:\\users\\user\\desktop\\c#\u002B\u002B\\webapi\\datacontext\\migrations\\20251129161601_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543FFA97-5FC9-4D53-BDD2-0526320D23DC}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\migrations\\20251129161601_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BabyController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\Controllers\\BabyController.cs",
+              "RelativeDocumentMoniker": "lesson6\\Controllers\\BabyController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\Controllers\\BabyController.cs",
+              "RelativeToolTip": "lesson6\\Controllers\\BabyController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:30:10.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NurseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repositories\\NurseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\NurseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repositories\\NurseRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\NurseRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:44:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T17:58:13.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExtensionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repositories\\ExtensionRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ExtensionRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repositories\\ExtensionRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ExtensionRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:03:49.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BabyService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Services\\BabyService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\BabyService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Services\\BabyService.cs",
+              "RelativeToolTip": "Service\\Services\\BabyService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAnwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T18:43:02.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NurseService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Services\\NurseService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\NurseService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Services\\NurseService.cs",
+              "RelativeToolTip": "Service\\Services\\NurseService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:47:29.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BabyClinicContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\DataContext\\BabyClinicContext.cs",
+              "RelativeDocumentMoniker": "DataContext\\BabyClinicContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\DataContext\\BabyClinicContext.cs",
+              "RelativeToolTip": "DataContext\\BabyClinicContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T18:41:23.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NurseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Common\\Dto\\NurseDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\NurseDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Common\\Dto\\NurseDto.cs",
+              "RelativeToolTip": "Common\\Dto\\NurseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:36:49.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Iservice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Interfaces\\Iservice.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\Iservice.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Interfaces\\Iservice.cs",
+              "RelativeToolTip": "Service\\Interfaces\\Iservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T18:43:02.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Interfaces\\IContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Interfaces\\IContext.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:36:59.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Common\\Login.cs",
+              "RelativeDocumentMoniker": "Common\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Common\\Login.cs",
+              "RelativeToolTip": "Common\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T18:04:25.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IsExist.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Interfaces\\IsExist.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IsExist.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Interfaces\\IsExist.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IsExist.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:55:27.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Entities\\Nurse.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Nurse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Entities\\Nurse.cs",
+              "RelativeToolTip": "Repository\\Entities\\Nurse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:14:00.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NurseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\Controllers\\NurseController.cs",
+              "RelativeDocumentMoniker": "lesson6\\Controllers\\NurseController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\Controllers\\NurseController.cs",
+              "RelativeToolTip": "lesson6\\Controllers\\NurseController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:57:05.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BabyController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\846eca86337cfb5a50250c04b5687c9419c9e7a47184790080f1a769b742887d\\BabyController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\846eca86337cfb5a50250c04b5687c9419c9e7a47184790080f1a769b742887d\\BabyController.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\846eca86337cfb5a50250c04b5687c9419c9e7a47184790080f1a769b742887d\\BabyController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\846eca86337cfb5a50250c04b5687c9419c9e7a47184790080f1a769b742887d\\BabyController.cs [Read Only]",
+              "ViewState": "AgIAADEAAAAAAAAAAADgvz0AAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:56:23.555Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "Service\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:34:13.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BabyDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Common\\Dto\\BabyDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\BabyDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Common\\Dto\\BabyDto.cs",
+              "RelativeToolTip": "Common\\Dto\\BabyDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:14:09.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Common\\Dto\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\AppointmentDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Common\\Dto\\AppointmentDto.cs",
+              "RelativeToolTip": "Common\\Dto\\AppointmentDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:36:47.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251121083659_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\DataContext\\Migrations\\20251121083659_init.cs",
+              "RelativeDocumentMoniker": "DataContext\\Migrations\\20251121083659_init.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\DataContext\\Migrations\\20251121083659_init.cs",
+              "RelativeToolTip": "DataContext\\Migrations\\20251121083659_init.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:45:33.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Baby.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Entities\\Baby.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Baby.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Entities\\Baby.cs",
+              "RelativeToolTip": "Repository\\Entities\\Baby.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T18:43:03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "lesson6\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "lesson6\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:12:59.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:37:00.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:37:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataContext.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\DataContext\\DataContext.csproj",
+              "RelativeDocumentMoniker": "DataContext\\DataContext.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\DataContext\\DataContext.csproj",
+              "RelativeToolTip": "DataContext\\DataContext.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-04T08:25:55.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Repository\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:57:56.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WebApi",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\WebApi.csproj",
+              "RelativeDocumentMoniker": "lesson6\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\WebApi.csproj",
+              "RelativeToolTip": "lesson6\\WebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T17:55:45.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BabyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repositories\\BabyRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\BabyRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repositories\\BabyRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\BabyRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:39:44.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExtensionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Services\\ExtensionService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ExtensionService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Services\\ExtensionService.cs",
+              "RelativeToolTip": "Service\\Services\\ExtensionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:34:16.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Repository",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T17:44:21.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Services\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Service\\Services\\MapperProfile.cs",
+              "RelativeToolTip": "Service\\Services\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:59:14.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BabyClinicContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\Migrations\\BabyClinicContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "lesson6\\Migrations\\BabyClinicContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\Migrations\\BabyClinicContextModelSnapshot.cs",
+              "RelativeToolTip": "lesson6\\Migrations\\BabyClinicContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:14:01.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "lesson6\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\WeatherForecast.cs",
+              "RelativeToolTip": "lesson6\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:13:11.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "lesson6\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\lesson6\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "lesson6\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:13:03.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251129161601_Init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\DataContext\\Migrations\\20251129161601_Init.cs",
+              "RelativeDocumentMoniker": "DataContext\\Migrations\\20251129161601_Init.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\DataContext\\Migrations\\20251129161601_Init.cs",
+              "RelativeToolTip": "DataContext\\Migrations\\20251129161601_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:16:01.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Common",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T18:26:53.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DataContext",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\DataContext\\DataContext.csproj",
+              "RelativeDocumentMoniker": "DataContext\\DataContext.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\u002B\u002B\\WebApi\\DataContext\\DataContext.csproj",
+              "RelativeToolTip": "DataContext\\DataContext.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T17:44:09.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
